@@ -1,1 +1,5 @@
-This is a test to work out why things aren't working elsewhere.
+---
+layout: page
+title: This is a test
+subtitle: This is a test to work out why this isn't working elsewhere.
+---
